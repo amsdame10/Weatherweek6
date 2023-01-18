@@ -1,6 +1,6 @@
-const apt={
-key:"8402ccd9e55983fce71eeeaa1d2bd1fc"
-baseURL: "https://api.openweathermap.org/data/2.5/"
+const apt = {
+  key: "8402ccd9e55983fce71eeeaa1d2bd1fc",
+  baseURL: "https://api.openweathermap.org/data/2.5/",
 };
 
 const searchbox = document.querySelector(".search-box");
